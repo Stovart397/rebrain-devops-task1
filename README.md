@@ -11,6 +11,6 @@ error_log  logs/error.log;
 pid        logs/nginx.pid;
 worker_rlimit_nofile 8192;
 ```
-### The repository contains the default config nginx.conf It is filled with repositories and changes readme.md will be completed as the course progresses.### 
+### The repository contains the default config nginx.conf It is filled with repositories and changes readme.md will be completed as the course progresses. 
 
 
